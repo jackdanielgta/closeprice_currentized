@@ -1,0 +1,1 @@
+# closeprice_currentized
